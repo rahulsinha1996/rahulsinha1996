@@ -18,7 +18,7 @@ Here are some quick things about me:
 <a href="https://www.linkedin.com/in/rahul-sinha-584a2694/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulsinha1996" height="30" width="40" /></a>
 </p>
 
-- 👨‍💻 All of my projects are available at <a href="https://rahulsinha-portfolio.netlify.app/" target="_blank" rel="noreferrer">Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://rahulsinha-portfolio.netlify.app/" target="_blank">Portfolio</a>
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/13PxnalCgu3x84rAngNyAis3xo5DsBqsl/view">Resume</a>
 
