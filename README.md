@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Sinha</h1>
-<h3 align="center">
+<h4>
 Thanks for visiting my GitHub profile, it's great to meet you here! 😊
 <br/>
 Here are some quick things about me:
@@ -10,7 +10,7 @@ Here are some quick things about me:
   <br/>
 🧑‍💻 Coding is my passion.
   <br/>
-📫 The best way to reach me is to send me an email.</h3>
+📫 The best way to reach me is to send me an email.</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
