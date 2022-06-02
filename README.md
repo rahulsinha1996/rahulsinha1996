@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rahul Sinha</h1>
 <h3 align="center">
 Thanks for visiting my GitHub profile, it's great to meet you here! 😊
-
+<br/>
 Here are some quick things about me:
-
+<br/>
 🔭 I'm a Full Stack Web Developer who is paranoid about convention, consistency, and constraints.
+  <br/>
 🧸 I'm proud of who I am, what I have built, and what I am building.
+  <br/>
 🧑‍💻 Coding is my passion.
+  <br/>
 📫 The best way to reach me is to send me an email.</h3>
 
 <h3 align="left">Connect with me:</h3>
